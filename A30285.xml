@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rules for hearing the Word of God with certain and saving benefit The second edition. By Daniel Burgess, minister of the gospel. Published by an hearer of them, at the request of many others.</title>
+            <author>Burgess, Daniel, 1645-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30285</idno>
+            <idno type="STC">Wing B5714</idno>
+            <idno type="STC">ESTC R215210</idno>
+            <idno type="EEBO-CITATION">99827158</idno>
+            <idno type="PROQUEST">99827158</idno>
+            <idno type="VID">31574</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30285)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31574)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1904:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rules for hearing the Word of God with certain and saving benefit The second edition. By Daniel Burgess, minister of the gospel. Published by an hearer of them, at the request of many others.</title>
+                  <author>Burgess, Daniel, 1645-1713.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Andrew Bell and Jonas Luntley, at the Pestle and Mortar, over against the Horseshoe-Tavern in Chancery-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC XC III. [1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In fours.</note>
+                  <note>At foot of title page: Price three pence.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+                  <note>Item incorrectly identified in reel guide as B5852A</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devotional literature --  Early works to 1800.</term>
+               <term>God --  Worship and love --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31574:1"/>
+            <pb facs="tcp:31574:1"/>
+            <p>RULES FOR HEARING THE <hi>Word of God</hi> With certain and ſaving Benefit.</p>
+            <p>
+               <hi>The Second Edition.</hi>
+            </p>
+            <p>By <hi>DANIEL B<g ref="char:V">Ʋ</g>RGESS,</hi> Miniſter of the Goſpel.</p>
+            <p>Publiſhed by an Hearer of them, at the Requeſt of many others.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Andrew Bell</hi> and <hi>Jonas Luntley,</hi> at the Peſtle and Mortar, over againſt the Horſe<g ref="char:EOLhyphen"/>ſhoe-Tavern in <hi>Chancery-Lane.</hi> MDCXCIII.</p>
+            <p>Price Three Pence.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:31574:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:31574:2"/>
+            <head>Rules for hearing the Word of God, with certain ſaving Benefit.</head>
+            <div n="before hearing" type="directions">
+               <head>BEFORE you Hear.</head>
+               <div n="1" type="direction">
+                  <p>DIrection I. <hi>Pray for a Bleſſing.</hi> Ask and you ſhall receive it. Sincere hearty Prayer is ſtill a Prevailer; and then <hi>moſt,</hi> when it is for Gifts that be <hi>beſt.</hi> But by not asking a <hi>Bleſſing,</hi> you deſerve a <hi>Curſe:</hi> becauſe you do virtually tell God, either that you <hi>need not</hi> his Spirit, or that you <hi>deſire not</hi> the ſaving Effica<g ref="char:EOLhyphen"/>cy of his Word. Neglect of Prayer will ruine the <hi>beſt</hi> Hearer; holy Uſe of it will ſave the <hi>worſt</hi> Hearer.</p>
+               </div>
+               <div n="2" type="direction">
+                  <p>Direct. II. <hi>
+                        <g ref="char:V">Ʋ</g>ſe Forecaſt against Di<g ref="char:EOLhyphen"/>ſtractions in Hearing.</hi> Wrath, and
+<pb n="4" facs="tcp:31574:3"/> Luſt, and ſinful Paſſions will take away your Heart at Sermons; but a conſtant cordial <hi>Watch</hi> and <hi>Fight</hi> againſt them, will deſtroy thoſe Deſtroyers. God will let no Soul be devoured by them, that is diligent to keep from them: Though on the other hand, Souls that do little to <hi>prevent</hi> them, ſhall be <hi>plagued</hi> with them. Divine <hi>Grace</hi> will not encou<g ref="char:EOLhyphen"/>rage your ſinful <hi>Negligence:</hi> No, but the Temptations which overtake you <hi>wilfully,</hi> ſhall overcome you <hi>wofully.</hi> Be<g ref="char:EOLhyphen"/>lieve ſad Experience, others and your own.</p>
+               </div>
+               <div n="3" type="direction">
+                  <p>Direct. III. <hi>Value the Word, and the Preaching of it, and thank God for them both.</hi> Honour them for <hi>God's</hi> ſake, and God will honour and bleſs you for his <hi>Son's</hi> ſake, and for his <hi>Promiſe</hi> ſake: God is ſo free of his Bleſſing on both, that he lets no Man who highly prizeth it, go without it. You may highly prize <hi>Gold</hi> and <hi>Silver,</hi> and go without them: but the <hi>richer Treaſure</hi> of the Goſpel is certainly your own, if you can but <hi>ſupremely</hi> value it. If you do
+<pb n="5" facs="tcp:31574:3"/> deſpiſe it, blame your ſelves that you are not enriched by it. God will not throw his ineſtimable <hi>Pearl</hi> unto un<g ref="char:EOLhyphen"/>grateful <hi>Swine:</hi> Swine that will not give ſo much as <hi>Thanks</hi> for the <hi>Pearl</hi> of greateſt Price.</p>
+               </div>
+               <div n="4" type="direction">
+                  <p>Direct. IV. <hi>Acquaint your ſelves well with the Ends and <g ref="char:V">Ʋ</g>ſes of the Word.</hi> Read <hi>Books,</hi> and ask <hi>Miniſters,</hi> and know as well as they, to what Purpoſes God ſendeth his Oracles: The four com<g ref="char:EOLhyphen"/>prehenſive Ends are, to <hi>convince</hi> of Sin, to <hi>convert</hi> unto Jeſus Chriſt, to <hi>confirm</hi> in Grace, to <hi>direct</hi> and <hi>comfort</hi> in Obe<g ref="char:EOLhyphen"/>dience: Underſtand theſe, and muſe much on them. Come to Sermons for theſe, and you ſhall not go from Ser<g ref="char:EOLhyphen"/>mons without them: But <hi>God hath not Pleaſure in Fools:</hi> and if you come to hear for you know not what, it's no marvel if you come away Fools as you went.</p>
+               </div>
+               <div n="5" type="direction">
+                  <p>Direct. V. <hi>Never forget God's Pro<g ref="char:EOLhyphen"/>miſe of Bleſſing on dutiful Hearing.</hi> He cannot lie; and he has told you, <hi>Hear
+<pb n="6" facs="tcp:31574:4"/> and your Souls ſhall live.</hi> Keep you that Promiſe of his as the Apple of your Eye. It will do your Heart good to think, God hath not left himſelf at Liberty to <hi>bleſs</hi> or not <hi>bleſs</hi> your Hearing: No, but that his FREE Grace is alſo BOUND Grace; bound by <hi>Word</hi> and <hi>Oath.</hi> This will give you <hi>holy Boldneſs,</hi> to which God always giveth <hi>happy VVelcome.</hi> But the want of this in your Mind, will keep it full of <hi>curſed</hi> and <hi>malignant</hi> Doubts and Fears. Without a Miracle of Grace it will hold you <hi>fearful,</hi> and hold you <hi>unbelieving;</hi> that is, periſhing.</p>
+               </div>
+               <div n="6" type="direction">
+                  <p>Direct. VI. <hi>Honourably uſe your Advo<g ref="char:EOLhyphen"/>cates.</hi> All the Week long honour the <hi>Son</hi> of God, as he in whom alone you can ever have <hi>Acceptance</hi> with God: and honour the <hi>holy Spirit</hi> of God, by whom alone you can ever have effectual <hi>Aſſi<g ref="char:EOLhyphen"/>ſtance</hi> to any Good. No Man ever thus honoured the <hi>Son</hi> and <hi>Spirit,</hi> and went without the full Bleſſing of the <hi>VVord.</hi> Without our Interceſſor in Heaven, and our Interceſſor in our Hearts, we can <hi>profitably</hi> do nothing; but with them
+<pb n="7" facs="tcp:31574:4"/> we may do every thing <hi>proſperouſly:</hi> Therefore be Sermons every-where ſo loſt, becauſe this Dependance on Chriſt and on his Spirit are ſcarce any where found. O that this Word might be well weighed!</p>
+               </div>
+               <div n="7" type="direction">
+                  <p>Direct. VII. <hi>Conclude upon it, the Word will be the Savour of Life or Death unto you.</hi> It will <hi>cure</hi> you, or further <hi>kill</hi> you; and give <hi>Life to Life,</hi> or <hi>Death to Death.</hi> Give your ſelves this <hi>prepa<g ref="char:EOLhyphen"/>ratory Sermon</hi> before you come to hear <hi>mine.</hi> Miniſters Sermons <hi>ſoften</hi> or <hi>har<g ref="char:EOLhyphen"/>den</hi> Hearers Souls; they never leave you (in degrees of Good or Evil) as they find you. Such Fore-thoughts are ordinary <hi>Antecedents,</hi> and direct <hi>Cauſes</hi> of no ſmall Good.</p>
+               </div>
+            </div>
+            <div n="hearing" type="directions">
+               <head>IN Hearing the Word.</head>
+               <div n="1" type="direction">
+                  <p>DIrection I. <hi>Approve Plainneſs and Power.</hi> Not only <hi>excuſe</hi> and <hi>en<g ref="char:EOLhyphen"/>dure,</hi> but <hi>approve</hi> and <hi>prefer</hi> them. You
+<pb n="8" facs="tcp:31574:5"/> like beſt the Phyſician that <hi>heals</hi> beſt; and the Counſellor at Law that <hi>beſt brings you to Peace, and quiet Poſſeſſion of your Inheritance;</hi> tho neither of them do <hi>complement</hi> you at all, but <hi>reprove</hi> you much, and chaſtiſe your miſchie<g ref="char:EOLhyphen"/>vous Folly with needful Severity. Be as wiſe for your Souls as for your Bo<g ref="char:EOLhyphen"/>dies and Eſtates. God heals the ſick Souls that prefer and uſe his own pre<g ref="char:EOLhyphen"/>ſcribed plain Medicines: But nice and peeviſh Ones, that loath his <hi>Manna,</hi> and muſt have <hi>Quails;</hi> that diſguſt his <hi>ſharp Word,</hi> and muſt be treated with Mens <hi>ſmooth Words;</hi> ſuch muſt die in their Pride and Folly. Where Preach<g ref="char:EOLhyphen"/>ers be but <hi>Muſicians,</hi> Churches be but <hi>Golgotha</hi>'s.</p>
+               </div>
+               <div n="2" type="direction">
+                  <p>Direct. II. <hi>Receive the faithful Mini<g ref="char:EOLhyphen"/>ſter's VVords as God's own:</hi> for ſo they are; they are God's Words <hi>originally;</hi> his Sermon as well as his Text, is all of it ſo. They are God's Words <hi>materially,</hi> as to the Matter and Senſe of them. They are God's Words to you <hi>inſtitu<g ref="char:EOLhyphen"/>tively;</hi> by God's Command they be ſpo<g ref="char:EOLhyphen"/>ken
+<pb n="9" facs="tcp:31574:5"/> unto you. They are God's Words given <hi>advantagiouſly;</hi> Words of God, by the Kindneſs of God, delivered with more Advantage for your Minds and Hearts than in the <hi>Holy Scripture</hi> barely read: Words of God, with a <hi>Comment of his Appointment:</hi> Words of God, to which he hath made a <hi>ſpecial Promiſe</hi> of higheſt Bleſſing: for <hi>Faith</hi> (emi<g ref="char:EOLhyphen"/>nently) <hi>comes by hearing</hi> theſe Words: <hi>He that heareth you, heareth me,</hi> ſaid Chriſt to the Preachers that he ſent. Receive every Goſpel-Sermon as by Chriſt <hi>preached,</hi> and doubt not but it ſhall be by Chriſt <hi>bleſs'd:</hi> But if you take the <hi>Words</hi> as well as the <hi>Breath</hi> of a Sermon, for <hi>ours,</hi> the Miſtake will be a deadly Loſs of <hi>yours.</hi>
+                  </p>
+               </div>
+               <div n="3" type="direction">
+                  <p>Direct. III. <hi>Mix abundance of Prayer with your Hearing.</hi> Souls are Spirits, their Motions are ſwifter than the Sun's; they <hi>can,</hi> and they <hi>ought</hi> to do two things at once: <hi>Ejaculation</hi> helps <hi>Attention,</hi> and not hinders it: Bread and Salt muſt be in every Meal, and ſhort warm Prayer in every Duty. Let
+<pb n="10" facs="tcp:31574:6"/> your Hearts cry out at every <hi>Truth</hi> de<g ref="char:EOLhyphen"/>livered, <hi>O Lord, fix this Truth on my Soul!</hi> At every <hi>Precept</hi> and <hi>Promiſe, Good God, help me to obey this Command, and to rely on this Promiſe!</hi> At every <hi>Reproof, Glorious Spirit, convince and humble me for this Sin, and lead me to Chriſt for Pardon,</hi> &amp;c. Such <hi>praying Hearers</hi> never loſe their <hi>Labours.</hi> But wo to them, who tho at Sermon-time they be not <hi>deaf Adders,</hi> yet they be <hi>dumb Dogs,</hi> whoſe <hi>Hearts</hi> do not to this Purpoſe ſpeak, while their <hi>Ears</hi> hear. I do not <hi>well hearken</hi> to the Ambaſſador, when I <hi>pray</hi> not <hi>much</hi> to the King.</p>
+               </div>
+               <div n="4" type="direction">
+                  <p>Direct. IV. <hi>Apply to your own Souls what the Preacher ſaith to all.</hi> To know <hi>for one's good,</hi> the Hebrews call to know <hi>for one's ſelf:</hi> And do not all the World ſo do? Miniſters be <hi>Nurſes,</hi> Sermons be <hi>Breaſts,</hi> God's Word is <hi>Milk,</hi> Hearers be the <hi>Children,</hi> and right Hearing is their <hi>ſucking</hi> the Milk into each one's own Soul. What another <hi>ſucks</hi> and ap<g ref="char:EOLhyphen"/>plies, will not <hi>nouriſh</hi> thee. Say thou then of every <hi>Doctrine, This is my Leſ<g ref="char:EOLhyphen"/>ſon,
+<pb n="11" facs="tcp:31574:6"/> I will learn it:</hi> Of every <hi>Command, This is my Duty, I will do it:</hi> Of every <hi>Promiſe, This is my Encouragement, and I will make Meat and Drink of it; my Soul ſhall rely and feed hereon.</hi> Who ever miſſed of Life by the Word of Life, that ſo took it to themſelves? Who did ever thus <hi>ſuck,</hi> and not <hi>grow</hi> by the Go<g ref="char:EOLhyphen"/>ſpel's Milk? Bleſſed are they that thus <hi>monopolize</hi> a Sermon: While, to be ſure, all are <hi>ſtarved</hi> that do not thus <hi>feed,</hi> whatever Dainties are ſet before them. And they are the moſt <hi>miſerable of all the Damned,</hi> who ſtarve themſelves where <hi>they might have feaſted.</hi>
+                  </p>
+               </div>
+               <div n="5" type="direction">
+                  <p>Direct. V. <hi>Expreſs your Reverence of God in a Sermon, unto all the Congrega<g ref="char:EOLhyphen"/>tion.</hi> God is ſpecially preſent in <hi>Hea<g ref="char:EOLhyphen"/>ven,</hi> and at a <hi>Sermon:</hi> Do you believe it? Then ſhow that Faith of yours: Shew it to your God, and to your Con<g ref="char:EOLhyphen"/>ſcience, by holy <hi>Thoughts</hi> and holy <hi>Af<g ref="char:EOLhyphen"/>fections:</hi> Yea, and ſhew it to all the Church by your <hi>well-compoſed Counte<g ref="char:EOLhyphen"/>nances,</hi> and <hi>becoming Geſtures.</hi> Your <hi>Bodies</hi> are God's as well as your <hi>Souls:</hi>
+                     <pb n="12" facs="tcp:31574:7"/> If you do not glorify him <hi>with both,</hi> you glorify him <hi>with neither.</hi> God lays no hard Impoſitions on <hi>Aged, Sickly, Weak</hi> Bodies: But he requites others to give him <hi>reverent Poſtures.</hi> Heads <hi>unneceſ<g ref="char:EOLhyphen"/>ſarily</hi> covered in Hearing, are <hi>ſinfully</hi> covered, and <hi>ſcandalouſly. Gadding Eyes</hi> are impudent Publiſhers of profane <hi>ram<g ref="char:EOLhyphen"/>bling Hearts;</hi> and of thoſe Fools, where<g ref="char:EOLhyphen"/>of <hi>one makes many.</hi> Put off your Shoes, and keep them off while you are on ho<g ref="char:EOLhyphen"/>ly Ground: That is, <hi>be Reverent in Soul and Body.</hi> So honour God before all the People, and then he ſhall make it ſeen before all the People, how he honoureth and bleſſeth you. Irreverence at a <hi>Sermon,</hi> is a publick Call to God for <hi>Damnation:</hi> A conſtructive bidding God to damn you, where Hundreds may be <hi>VVitneſſes</hi> to it; and, without God's great Grace, be <hi>poiſoned</hi> by it. [There are who ſay, that all Diſſenters are irreverent in Worſhip: See you that they ſlander us not with a matter of Truth.]</p>
+               </div>
+               <div n="6" type="direction">
+                  <p>Direct. VI. <hi>Honour the Preacher as a
+<pb n="13" facs="tcp:31574:7"/> Man of God, and no more.</hi> God ſtiles a Miniſter by that Name; and God's Names be the moſt proper and inſtru<g ref="char:EOLhyphen"/>ctive. A Miniſter is <hi>but a Man;</hi> do not therefore <hi>adore</hi> him as a God. Let him be ſo thy <hi>Miniſter,</hi> that Chriſt may ſtill be thy only ſupreme <hi>Shepherd and Biſhop.</hi> He is <hi>but a Man;</hi> expect there<g ref="char:EOLhyphen"/>fore and bear with his <hi>Infirmities,</hi> and pray God for his <hi>Aſſiſtances</hi> to him. He is <hi>but a Man;</hi> therefore pin not thy Faith on his Sleeve, but exerciſe thy <hi>own Senſe,</hi> and beg the Guidance of God's <hi>holy Spi<g ref="char:EOLhyphen"/>rit.</hi> Yet nevertheleſs, he is <hi>a Man of God,</hi> remember: If not, do not <hi>hear</hi> him: If ſo, conſider while thou art hearing, he is <hi>one that hath received the Holy Ghost;</hi> he is <hi>one that Christ hath qualified and commiſſioned, under himſelf, to be a Saviour of thee,</hi> and of all that hear him. Wherefore do not <hi>deſpiſe</hi> him, as not <hi>adore</hi> him. Thou ſhalt profit by him, if thou heareſt him as he is, an <hi>Embaſſador of God,</hi> a <hi>Meſſenger of Christ,</hi> an <hi>Overſeer made by the Holy Ghoſt.</hi> But wo is thine, if thou fol<g ref="char:EOLhyphen"/>loweſt him either as <hi>a God,</hi> or as <hi>a com<g ref="char:EOLhyphen"/>mon
+<pb n="14" facs="tcp:31574:8"/> Man.</hi> The Goſpel pronounceth no Bleſſing upon the <hi>Superſtitious,</hi> or upon the <hi>Profane.</hi>
+                  </p>
+               </div>
+               <div n="7" type="direction">
+                  <p>Direct. VII. <hi>Project to retain as much as may be of what you hear.</hi> All along your <hi>hearing,</hi> deſign and do what you can for <hi>remembring.</hi> Say over to your ſelves the <hi>Doctrine</hi> many times: and, if you can, repeat to your ſelves all the <hi>Heads</hi> of the Diſcourſe: But lay faſt hold of the <hi>main Drift</hi> of every Sermon. However <hi>Nature, Sickneſs</hi> or <hi>Age</hi> may have incurably wounded your Memo<g ref="char:EOLhyphen"/>ries, God is gracious, remember. He will accept an <hi>unfeigned Good-will</hi> for the very <hi>Deed.</hi> His Spirit ſhall be <hi>a never-failing Remembrancer,</hi> to ſuch as againſt their <hi>VVills,</hi> and againſt their <hi>Endea<g ref="char:EOLhyphen"/>vours,</hi> be forgetful. He will not call them <hi>forgetful Hearers,</hi> that ſtrain and ſtrive, and do their beſt to be <hi>tenacious</hi> ones. But he will ſo <hi>call,</hi> and will <hi>curſe</hi> thoſe, who <hi>like not and liſt not</hi> to retain his Word, as well as to receive it. Hear<g ref="char:EOLhyphen"/>ers <hi>ſo wilfully dull,</hi> muſt look to <hi>remain among the Dead.</hi> As they are <hi>ſlothful,</hi>
+                     <pb n="15" facs="tcp:31574:8"/> they are <hi>wicked</hi> Servants. And let them expect Chriſt's foretold Word, <hi>Depart ye Curſed.</hi> Heaven is no Hive for <hi>Drones.</hi> Ignorance is a <hi>Curſe;</hi> and if it be your <hi>Choice,</hi> it will as ſurely be your Deſtru<g ref="char:EOLhyphen"/>ction as your Option.</p>
+               </div>
+            </div>
+            <div n="after hearing" type="directions">
+               <head>AFTER Hearing God's Word.</head>
+               <div n="1" type="direction">
+                  <p>DIrection I. <hi>Take the moſt earneſt heed that you do not let ſlip what you have received.</hi> Your Memories be the <hi>great Servants</hi> of your Faith, Hope and Obedience; and they are but <hi>imper<g ref="char:EOLhyphen"/>fectly ſanctified:</hi> they be too much like the Grates that let go <hi>clean Water,</hi> and hold <hi>filthy Mud.</hi> If you take <hi>little Pains</hi> about them, you will have but <hi>ſorry Service</hi> from them. The beſt Ground will never hold the <hi>good Seed,</hi> if no care be had to drive off the <hi>Fowls</hi> that will be coming and catching it away, and if Labour be not beſtown to harrow it in. This Labour <hi>for the VVord</hi> is Labour <hi>in the Lord;</hi> and it ſhall <hi>not be in vain.</hi>
+                     <pb n="16" facs="tcp:31574:9"/> Thus do, you ſhall ſurely proſper, and do well. But if this be too much in your Conceits; if you are <hi>lame,</hi> and will not uſe <hi>Crutches;</hi> if you cannot otherwiſe <hi>remember,</hi> and you will not <hi>talk</hi> with your ſelves and Families of a Sermon; nor go forth unto a <hi>Repetition;</hi> nor <hi>ask the holy Spirit</hi> to be your Re<g ref="char:EOLhyphen"/>membrancer; you muſt take to your <hi>Sorrow,</hi> what you get by your <hi>Sloth.</hi> The <hi>Devil</hi> cannot rob you of a Sermon <hi>againſt your VVill:</hi> and <hi>God</hi> will not keep a Sermon in your Mind <hi>without your VVill.</hi>
+                  </p>
+               </div>
+               <div n="2" type="direction">
+                  <p>Direct. II. <hi>Let your Thanks be retur<g ref="char:EOLhyphen"/>ned after every Sermon heard.</hi> Thanks and Praiſe are God's <hi>dearly beloved;</hi> the <hi>End of all his VVorks;</hi> of your <hi>Beings,</hi> your <hi>Redemption,</hi> your <hi>Goſpel-Calls,</hi> all <hi>Ordinances</hi> and <hi>Providences.</hi> It is <hi>Hell</hi> where <hi>no</hi> Praiſe and Thanks are; and it is <hi>Heaven</hi> where there is <hi>nothing be<g ref="char:EOLhyphen"/>ſides.</hi> Nothing delighteth God ſo much as theſe; and for nothing on this Earth doth God expect theſe, more than for his <hi>Goſpel preached.</hi> When it is ſaid,
+<pb n="17" facs="tcp:31574:9"/> 
+                     <hi>He giveth his VVord,</hi> 'tis preſently ad<g ref="char:EOLhyphen"/>ded, <hi>Praiſe ye the Lord.</hi> And <hi>this</hi> Praiſe we are told, <hi>ſhall pleaſe the Lord better than an Ox or Bullock,</hi> than any exter<g ref="char:EOLhyphen"/>nal Sacrifice. If <hi>
+                        <g ref="char:V">Ʋ</g>nprofitableneſs</hi> by the Word do not drive away <hi>Thankfulneſs, Thankfulneſs</hi> for the Word ſhall be ſure to drive away <hi>
+                        <g ref="char:V">Ʋ</g>nprofitableneſs.</hi> Let your Thanks be more than <hi>verbal,</hi> your Profit ſhall be <hi>real:</hi> It ſhall <hi>appear to all Men.</hi> But as long as you <hi>hear unthank<g ref="char:EOLhyphen"/>fully,</hi> you muſt <hi>be</hi> and <hi>appear unholy.</hi> In<g ref="char:EOLhyphen"/>gratitude doth, of any Sin to be named, turn Honey into Gall, and Phyſick to Poiſon. It is the ſame thing, to call a Man <hi>unthankful,</hi> and to ſay he is <hi>a Sa<g ref="char:EOLhyphen"/>maritan, and hath a Devil.</hi>
+                  </p>
+               </div>
+               <div n="3" type="direction">
+                  <p>Direct. III. <hi>Lament your Sins in hear<g ref="char:EOLhyphen"/>ing, and go act Faith on Christ for your Pardon.</hi> Abundance of <hi>Droſs</hi> is in all our <hi>Gold.</hi> Iniquity abounds in our <hi>holy Things.</hi> The holieſt of them all need a <hi>thouſand Pardons,</hi> and deſerve our <hi>deep<g ref="char:EOLhyphen"/>eſt Bluſhes.</hi> And let us not flatter our ſelves, <hi>Repenting and Believing be not Things indifferent,</hi> or Acts of <hi>meer Chri<g ref="char:EOLhyphen"/>ſtian
+<pb n="18" facs="tcp:31574:10"/> Liberty,</hi> but <hi>indiſpenſable Duty.</hi> They muſt go before the Seal of our Pardon, in our <hi>Conſcience</hi> or in <hi>Heaven.</hi> And believe it, God is incenſed with Sin, <hi>whoever</hi> it be that ſinneth, and in <hi>whatever.</hi> He delighteth to be <hi>kind,</hi> but he hateth to be <hi>fond.</hi> As ever you would profit by a Sermon, follow it with the <hi>Tears of Repentance,</hi> and with the <hi>Prayers of Faith.</hi> Then will God give you Profit, <hi>with Meaſure preſſed down and running over.</hi> If you are too <hi>proud</hi> for this; in God's Name I tell you, that Pride of yours ſhall have a ſhameful Fall. The beſt thing <hi>proud,</hi> is worſe than the worſt that is truly <hi>humble.</hi>
+                  </p>
+               </div>
+               <div n="4" type="direction">
+                  <p>Direct. IV. <hi>Examine with humble Di<g ref="char:EOLhyphen"/>ligence, what in hearing appeared to you as doubtful.</hi> Suſpect <hi>your own <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtandings</hi> more than your <hi>Miniſter's:</hi> But lean not <hi>raſhly</hi> on your own, or <hi>ido<g ref="char:EOLhyphen"/>latrouſly</hi> on his. If Error be in <hi>his Do<g ref="char:EOLhyphen"/>ctrine,</hi> it turns to Poiſon in <hi>thy Soul.</hi> Wherefore do not <hi>ſwallow</hi> what thou doſt <hi>ſuſpect.</hi> The moſt <hi>noble Hearers</hi>
+                     <pb n="19" facs="tcp:31574:10"/> try all Doctrine by the <hi>holy Scriptures.</hi> Good <hi>Children</hi> ask their <hi>Parents</hi> Ad<g ref="char:EOLhyphen"/>vice; wiſe <hi>Women</hi> ask their <hi>Husbands;</hi> the Wiſe of <hi>all Sorts</hi> go ask their <hi>Mini<g ref="char:EOLhyphen"/>ſters,</hi> and intreat them to clear up by God's <hi>written Word</hi> the Truth of their <hi>preached Word.</hi> Thus do; and who<g ref="char:EOLhyphen"/>ever be <hi>barren</hi> Hearers, you ſhall be <hi>fruitful</hi> ones. God never fails to teach Souls ſo careful to imbibe nothing but Truth. O happy Church where <hi>Mal.</hi> 2.7. is wiſely and duly obſerved! where <hi>Miniſters Lips</hi> preſerve Knowledg, and <hi>People ſeek it</hi> at their Mouths. But it is no more than is to be expected, if ſtupid <hi>Drones</hi> and contentious <hi>Cavillers,</hi> live <hi>Idiots,</hi> and die without <hi>ſaving Wiſ<g ref="char:EOLhyphen"/>dom.</hi> God's Curſe reſts on the Idle, and he reſiſteth the Proud.</p>
+               </div>
+               <div n="5" type="direction">
+                  <p>Direct. V. <hi>Prove your State and Con<g ref="char:EOLhyphen"/>dition by every Goſpel-Sermon.</hi> You can<g ref="char:EOLhyphen"/>not try <hi>too often,</hi> things whereof you can never be <hi>ſufficiently</hi> certain: I mean ſo much certain, but that you will ſtill need to be more certain. You are <hi>true Believers and alive to God,</hi> or <hi>
+                        <g ref="char:V">Ʋ</g>nbelie<g ref="char:EOLhyphen"/>vers
+<pb n="20" facs="tcp:31574:11"/> and dead in Sin and Miſery.</hi> You are <hi>ſtrong</hi> in the Grace that is in Chriſt, or <hi>Babes weak</hi> in the ſame. It is a ſor<g ref="char:EOLhyphen"/>ry Sermon by which no Help is given you, to form a Judgment of your ſelves touching theſe things. God's <hi>Bleſſing</hi> upon your <hi>conſcientious Care</hi> to make uſe of the Help, you need not to diſtruſt. His <hi>Command</hi> on you to prove your ſelves, is not without a <hi>Promiſe</hi> of Bleſ<g ref="char:EOLhyphen"/>ſing made to it. He ever enricheth thoſe Hearers, who uſe Sermons as <hi>Scales</hi> to weigh, and <hi>Touchſtones</hi> to try their Souls. But as for the <hi>Preſumptu<g ref="char:EOLhyphen"/>ous,</hi> who dream themſelves to be as good as they need to be; and the <hi>De<g ref="char:EOLhyphen"/>ſpairing,</hi> who conclude that they ſhall remedileſly abide as bad as they are, and therefore never put the Word of God ſo cloſe unto them; What Hope of theſe! God will <hi>condemn</hi> thoſe by his Word, who will not <hi>judg</hi> them<g ref="char:EOLhyphen"/>ſelves by it. If you will not make it a <hi>Light</hi> unto you, he will make it <hi>Fire</hi> to you.</p>
+               </div>
+               <div n="6" type="direction">
+                  <p>Direct. VI. <hi>Carry on your Knowledg,
+<pb n="21" facs="tcp:31574:11"/> Memory, and every good Purpoſe, unto Practice.</hi> Chriſtian Divinity is an Art of doing more than <hi>knowing</hi> God's Will, <hi>remembring</hi> it, and <hi>temporarily purpoſing</hi> to do it: It teacheth <hi>living unto</hi> God. Word and Sacraments, yea Faith and Repentance, all are for Obedience. God gave his <hi>Son,</hi> and ſent down his <hi>Spirit,</hi> to get him a People zealous of good Works as well as Words. Much <hi>Fruit</hi> it is (and not your <hi>fair Leaves</hi>) that glorifieth God. And it is the Hearer, <hi>rich in good VVorks,</hi> that God will <hi>glorify:</hi> The Hearer, to whoſe <hi>Feet</hi> the Word is a Light, to walk by it; as well as a Light to his <hi>Head,</hi> to talk by it. I have Warrant from our Saviour to tell you; If you hear his Word and ſo keep it, you ſhall have greater Honour than the Virgin <hi>Mary</hi> had in being his Mother. And do you but ſtill <hi>do</hi> the Word of his that you <hi>know,</hi> you ſhall never fail to be <hi>made know</hi> the Word that he would have you to <hi>do.</hi> Uſe well your <hi>Hands</hi> and <hi>Feet,</hi> and he will make every Sermon a Royal Salve to your <hi>Eyes.</hi> But from
+<pb n="22" facs="tcp:31574:12"/> him that practiſeth not what he knows, from him ſhall be taken the Light that he hath: To him is promiſed no more Light; unto him is threatned the dark<g ref="char:EOLhyphen"/>eſt Fire, <hi>Luke</hi> 28.29. <hi>Heathen Mora<g ref="char:EOLhyphen"/>liſts</hi> hold no Man to be ſo very bad, as he who <hi>acts</hi> Evil, and no more than <hi>talks</hi> of Good. <hi>Chriſtian ones</hi> muſt needs pronounce them the worſt Monſters, that ſpeak as with <hi>cloven Tongues,</hi> and yet, as <hi>Negroes,</hi> are no where white but in the <hi>Mouth.</hi>
+                  </p>
+               </div>
+               <div n="7" type="direction">
+                  <p>Direct. VII. <hi>Teach your Relations what God teacheth you at Sermons.</hi> God will never <hi>forfeit</hi> his Name of <hi>Love;</hi> nor fail to <hi>reward</hi> Charity, and ſpecial<g ref="char:EOLhyphen"/>ly <hi>Soul-Charity.</hi> It is the Devil's Pro<g ref="char:EOLhyphen"/>verb, <hi>The Free ſhall not be fat.</hi> God's Proverb is, <hi>The liberal Soul ſhall be made fat, and he that waters others ſhall be wa<g ref="char:EOLhyphen"/>tered.</hi> God will hide nothing from an <hi>Abraham,</hi> for this very reaſon, becauſe he will inſtruct all his <hi>Family</hi> with it. Go you now and inſtruct yours; ſo ſhall you be taught of God as you have never been in paſt Days: <hi>Drop</hi> Divine
+<pb n="23" facs="tcp:31574:12"/> Truths on them, and God ſhall make Sermons <hi>rain down rich Showers</hi> on you. But vain are your idle Moans, while you are uncharitable to your Relations. If I know the Mind of God, <hi>He will ſtarve you if you will not feed them. God is a great lover of Children; and our Chil<g ref="char:EOLhyphen"/>dren are his more than ours. Nor can you eaſily incenſe God more, than by neg<g ref="char:EOLhyphen"/>lect of theſe his Children.</hi> I wonder not that many <hi>hear and underſtand not;</hi> be<g ref="char:EOLhyphen"/>cauſe <hi>what they underſtand, they teach not.</hi> You may be <hi>ever learning,</hi> but you ſhall <hi>never come to the ſaving Know<g ref="char:EOLhyphen"/>ledg of the Truth,</hi> until you make con<g ref="char:EOLhyphen"/>ſcience of communicating the Truth you know. Thus, <hi>ſpend,</hi> and <hi>God will ſend.</hi> Teach <hi>others,</hi> and God ſhall teach <hi>you;</hi> comfort <hi>them,</hi> and God ſhall increaſe and multiply Comfort to <hi>you.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="conclusion">
+               <p>When theſe Rules ſhall be obſerved, <hi>Miniſters</hi> ſhall be joyful (both) <hi>Fathers</hi> and <hi>Nurſes:</hi> The <hi>Bed of Christ</hi> ſhall be <hi>green</hi> in our Aſſemblies. It ſhall be no more querulouſly ſaid, that our <hi>Ser<g ref="char:EOLhyphen"/>mons</hi>
+                  <pb n="24" facs="tcp:31574:13"/> have <hi>miſcarrying Wombs</hi> and <hi>dry Breaſts.</hi> Joy ſhall be made <hi>in Heaven,</hi> and in the <hi>midſt of us. Fear ſhall come on every Soul of our Scorners.</hi> We ſhall <hi>praiſe God</hi> as the Primitive Chriſtians, and have <hi>Favour with all the People.</hi> The Word of God ſhall <hi>ſo run and be glorified;</hi> and God, even <hi>our own God ſhall ſo bleſs</hi> us. <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31574:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
